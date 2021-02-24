@@ -31,6 +31,8 @@ github_username:  itsjustmath
 theme: minima
 plugins:
   - jekyll-feed
+  
+permalink: /:categories/:title:output_ext
 
 # Exclude from processing.
 # The following items will not be processed, by default.
