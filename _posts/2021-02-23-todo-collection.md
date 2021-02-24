@@ -2,7 +2,7 @@
 layout: post
 title:  "Collection of TODO Commands (With INPUT)"
 date:   2021-02-23 14:35:20 -0800
-categories: smartblock roamcss
+categories: smartblocks
 ---
 
 ## ✂️ Copy of your #42SmartBlock from Roam
