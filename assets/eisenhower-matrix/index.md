@@ -1,0 +1,6 @@
+- #42SmartBlock Matrix
+    - #matrix {{[[kanban]]}}
+        - [[Important]] + [[Urgent]]
+        - [[Important]] + [[Not Urgent]]
+        - [[Not Important]] + [[Urgent]]
+        - [[Not Important]] + [[Not Urgent]]
